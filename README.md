@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is akhyar and I'm a fullstack developer from MERN and NextJs.</h2>
 
 ###
+<img align="right" height="150" src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"  />
+
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **MERN & NextJS**
 - 📫 How to reach me: **akhyar24.354@gmail.com**
@@ -10,11 +12,8 @@
 - 👯 I’m looking to collaborate on ... 
  - 🤔 I’m looking for help with ... -->
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"  />
-
-###
+</br>
+</br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
