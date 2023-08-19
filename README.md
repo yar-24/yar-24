@@ -7,7 +7,7 @@
 - 💬 Ask me about **MERN & NextJS**
 - 📫 How to reach me: **akhyar24.354@gmail.com**
 - 😄 Pronouns: call me **yare**
-- ⚡ Fun fact: **I love sports**
+- ⚡ Fun fact: **I love mom**
 <!-- - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ... 
  - 🤔 I’m looking for help with ... -->
