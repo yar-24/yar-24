@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is akhyar and I'm a fullstack developer from MERN and NextJs.</h2>
+<h2 align="left">Hi 👋! My name is akhyar and I'm a fullstack developer using MERN and NextJs.</h2>
 
 ###
 <img align="right" height="150" src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"  />
